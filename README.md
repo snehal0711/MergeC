@@ -1,0 +1,2 @@
+# MergeC
+merge conflict 
